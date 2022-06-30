@@ -1,0 +1,9 @@
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.DataAccess.InMemory.dll
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.DataAccess.InMemory.pdb
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.Core.dll
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.Core.pdb
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csprojAssemblyReference.cache
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.CoreCompileInputs.cache
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.CopyComplete
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.dll
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.pdb
