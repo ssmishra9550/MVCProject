@@ -7,3 +7,12 @@ D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.InMemory\obj\D
 D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.CopyComplete
 D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.dll
 D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.pdb
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.DataAccess.InMemory\bin\Debug\MyShop.DataAccess.InMemory.dll
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.DataAccess.InMemory\bin\Debug\MyShop.DataAccess.InMemory.pdb
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.DataAccess.InMemory\bin\Debug\MyShop.Core.dll
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.DataAccess.InMemory\bin\Debug\MyShop.Core.pdb
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.AssemblyReference.cache
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.CoreCompileInputs.cache
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.CopyComplete
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.dll
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.pdb
